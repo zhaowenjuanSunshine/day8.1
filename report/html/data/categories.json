@@ -1,0 +1,61 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "_pytest.warning_types.RemovedInPytest4Warning: MarkInfo objects are deprecated as they contain merged marks which are hard to deal with correctly.\nPlease use node.get_closest_marker(name) or node.iter_markers(name).\nDocs: https://docs.pytest.org/en/latest/mark.html#updating-code",
+      "children" : [ {
+        "name" : "test_001",
+        "uid" : "2931fd0162539db5",
+        "parentUid" : "5f9d1102bc0f59ca0278a52a423b5087",
+        "status" : "broken",
+        "time" : {
+          "start" : 1560156986307,
+          "stop" : 1560156986309,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_002",
+        "uid" : "a10df1fbe4935a8a",
+        "parentUid" : "5f9d1102bc0f59ca0278a52a423b5087",
+        "status" : "broken",
+        "time" : {
+          "start" : 1560156986376,
+          "stop" : 1560156986379,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_003",
+        "uid" : "d465a9085f3f4d96",
+        "parentUid" : "5f9d1102bc0f59ca0278a52a423b5087",
+        "status" : "broken",
+        "time" : {
+          "start" : 1560156986446,
+          "stop" : 1560156986446,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_004",
+        "uid" : "5031e16b8148b661",
+        "parentUid" : "5f9d1102bc0f59ca0278a52a423b5087",
+        "status" : "broken",
+        "time" : {
+          "start" : 1560156986532,
+          "stop" : 1560156986532,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5f9d1102bc0f59ca0278a52a423b5087"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

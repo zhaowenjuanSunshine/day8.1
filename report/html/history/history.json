@@ -1,0 +1,82 @@
+{
+  "1370c6e7363d6eefc94835a73a480db9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5031e16b8148b661",
+      "status" : "broken",
+      "statusDetails" : "_pytest.warning_types.RemovedInPytest4Warning: MarkInfo objects are deprecated as they contain merged marks which are hard to deal with correctly.\nPlease use node.get_closest_marker(name) or node.iter_markers(name).\nDocs: https://docs.pytest.org/en/latest/mark.html#updating-code",
+      "time" : {
+        "start" : 1560156986532,
+        "stop" : 1560156986532,
+        "duration" : 0
+      }
+    } ]
+  },
+  "75d8cb528e8bc4eecf7bba0a6572640a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d465a9085f3f4d96",
+      "status" : "broken",
+      "statusDetails" : "_pytest.warning_types.RemovedInPytest4Warning: MarkInfo objects are deprecated as they contain merged marks which are hard to deal with correctly.\nPlease use node.get_closest_marker(name) or node.iter_markers(name).\nDocs: https://docs.pytest.org/en/latest/mark.html#updating-code",
+      "time" : {
+        "start" : 1560156986446,
+        "stop" : 1560156986446,
+        "duration" : 0
+      }
+    } ]
+  },
+  "17b29d9854fd76bed5b9642369458614" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a10df1fbe4935a8a",
+      "status" : "broken",
+      "statusDetails" : "_pytest.warning_types.RemovedInPytest4Warning: MarkInfo objects are deprecated as they contain merged marks which are hard to deal with correctly.\nPlease use node.get_closest_marker(name) or node.iter_markers(name).\nDocs: https://docs.pytest.org/en/latest/mark.html#updating-code",
+      "time" : {
+        "start" : 1560156986376,
+        "stop" : 1560156986379,
+        "duration" : 3
+      }
+    } ]
+  },
+  "0af5302c64c3c9ee4f8874cfdeeb0f48" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2931fd0162539db5",
+      "status" : "broken",
+      "statusDetails" : "_pytest.warning_types.RemovedInPytest4Warning: MarkInfo objects are deprecated as they contain merged marks which are hard to deal with correctly.\nPlease use node.get_closest_marker(name) or node.iter_markers(name).\nDocs: https://docs.pytest.org/en/latest/mark.html#updating-code",
+      "time" : {
+        "start" : 1560156986307,
+        "stop" : 1560156986309,
+        "duration" : 2
+      }
+    } ]
+  }
+}
