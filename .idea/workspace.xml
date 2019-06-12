@@ -80,7 +80,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Git/mingw64/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day8.1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -168,7 +168,7 @@
       <workItem from="1560256980871" duration="858000" />
       <workItem from="1560260041854" duration="33000" />
       <workItem from="1560315092676" duration="2529000" />
-      <workItem from="1560317876872" duration="963000" />
+      <workItem from="1560317876872" duration="1940000" />
     </task>
     <task id="LOCAL-00001" summary="添加注释 test">
       <created>1560318207578</created>
