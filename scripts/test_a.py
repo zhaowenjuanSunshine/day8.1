@@ -24,6 +24,7 @@ class Test_a(object):
     @allure.issue('http://www.163.com')
     def test_004(self):
         print(">>>>>>>>>>>>test_004>>>>>>>>>>>>>>>>>>zwj")
+        print("---------------add-test------------------")
         assert True
 
 

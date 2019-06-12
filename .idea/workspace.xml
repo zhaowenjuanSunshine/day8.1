@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f00b7de7-9a88-47df-8ed9-d5ba428ccdce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test_a.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/test_a.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="293">
+              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -175,7 +175,7 @@
       <workItem from="1560256980871" duration="858000" />
       <workItem from="1560260041854" duration="33000" />
       <workItem from="1560315092676" duration="2529000" />
-      <workItem from="1560317876872" duration="413000" />
+      <workItem from="1560317876872" duration="963000" />
     </task>
     <task id="LOCAL-00001" summary="添加注释 test">
       <created>1560318207578</created>
@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560318207578</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="删除无用文件夹">
+      <created>1560318439263</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560318439263</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -220,10 +227,20 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19564000" />
+    <option name="totallyTimeSpent" value="20114000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20272315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -234,13 +251,13 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.06710311" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.20130932" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.15548281" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4977307" weight="0.20130932" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4977307" visible="true" weight="0.15548281" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -253,7 +270,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加注释 test" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加注释 test" />
+    <MESSAGE value="删除无用文件夹" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除无用文件夹" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/day8$test_allure.coverage" NAME="test_allure Coverage Results" MODIFIED="1560139753274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
@@ -294,8 +312,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/test_a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="293">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
         </state>
       </provider>
     </entry>
