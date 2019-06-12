@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="f00b7de7-9a88-47df-8ed9-d5ba428ccdce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report/750f8782-891d-4c9c-a812-b3ebb82a2aeb-attachment.attach" beforeDir="false" />
@@ -60,6 +61,9 @@
       <change beforePath="$PROJECT_DIR$/scripts/report/c3282a40-32f0-41c5-b374-d0fb787fc8c6-attachment.attach" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/report/cc3b4b07-0d72-4156-99fc-b325cc0b12f4-result.json" beforeDir="false" />
     </list>
+=======
+    <list default="true" id="f00b7de7-9a88-47df-8ed9-d5ba428ccdce" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/test_a.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="248">
               <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
@@ -91,6 +96,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="211">
               <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+=======
+            <state relative-caret-position="249">
+              <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -119,8 +128,13 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
+<<<<<<< Updated upstream
     <option name="x" value="-8" />
     <option name="y" value="-8" />
+=======
+    <option name="x" value="422" />
+    <option name="y" value="247" />
+>>>>>>> Stashed changes
     <option name="width" value="791" />
     <option name="height" value="744" />
   </component>
@@ -161,7 +175,7 @@
     <property name="last_opened_file_path" value="D:/Git/mingw64/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -298,7 +312,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="22537000" />
+=======
+    <option name="totallyTimeSpent" value="26436000" />
+>>>>>>> Stashed changes
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -310,8 +328,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37140697" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -326,9 +343,15 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.15548281" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4977307" visible="true" weight="0.35679215" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4977307" weight="0.15548281" />
+=======
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5030257" side_tool="true" weight="0.4599018" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4969743" visible="true" weight="0.4599018" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4977307" weight="0.072013095" />
+>>>>>>> Stashed changes
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -384,8 +407,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/report/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="211">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+=======
+        <state relative-caret-position="249">
+          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
