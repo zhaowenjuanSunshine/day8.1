@@ -2,63 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f00b7de7-9a88-47df-8ed9-d5ba428ccdce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/750f8782-891d-4c9c-a812-b3ebb82a2aeb-attachment.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/7a988e6e-df2f-4eaa-9ba3-fb41ec12aec7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/7f0b40a5-8544-49f3-a86f-cf16ee608fc4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/840f223e-a1c2-4b1f-a271-d55b70bc3ad3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/fb66ff8a-d55b-4b50-bace-fb8b0551c132-attachment.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/fe77ed05-1416-4c87-b585-dd68c4347865-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/c84b37335af7b8ec.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/attachments/e629e41dd2da2e13.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/2931fd0162539db5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/5031e16b8148b661.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/a10df1fbe4935a8a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/test-cases/d465a9085f3f4d96.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/html/widgets/summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/report/4e9bc32b-cd2c-4fb5-87ca-ce9e3f211380-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/report/5168053a-6e2c-4953-b824-9ced961357b8-attachment.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/report/72b7c105-f3a4-478a-ab07-8b5503870edc-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/report/c02509bd-9d14-4df8-a40c-743021ac5f78-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/report/c3282a40-32f0-41c5-b374-d0fb787fc8c6-attachment.attach" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/report/cc3b4b07-0d72-4156-99fc-b325cc0b12f4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/test_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test_a.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,20 +21,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/test_a.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/report/html/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="284">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -118,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="791" />
@@ -298,7 +233,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22537000" />
+    <option name="totallyTimeSpent" value="23933000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,7 +248,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37140697" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37140697" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -327,8 +262,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49848714" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.15548281" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4977307" visible="true" weight="0.35679215" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4977307" weight="0.15548281" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4977307" weight="0.5695581" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.4977307" visible="true" weight="0.072013095" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -375,17 +310,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/test_a.py">
+    <entry file="file://$PROJECT_DIR$/report/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="57">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/report/html/index.html">
+    <entry file="file://E:/python36/Lib/site-packages/allure_pytest/listener.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="1">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/test_a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
