@@ -1,15 +1,15 @@
 import pytest, allure
 class Test_a(object):
-    # def setup_class(self):
-    #     print(">>>>>>>>>>>>>>setup_class")
-    # def teardown_class(self):
-    #     print(">>>>>>>>>>>>>>teardown_class")
-    #
+    def setup_class(self):
+        print(">>>>>>>>>>>>>>setup_class")
+    def teardown_class(self):
+        print(">>>>>>>>>>>>>>teardown_class")
 
-    @pytest.allure.step("我是test_001第一个测试")
+    @pytest.allure.step("我是test_001第一个测试 zwjtest")
     @pytest.allure.severity(pytest.allure.severity_level.BLOCKER)
     def test_001(self):
-        allure.attach("描述","这是一个描述-打印测试内容")
+        allure.attach("描述","这是一个描述-打印测试内容  test")
+        print("我是houjinxuan")
         print(">>>>>>>>>>>>>>test_001")
         assert True
     @allure.severity(allure.severity_level.TRIVIAL)
