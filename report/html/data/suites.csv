@@ -1,5 +1,5 @@
 "Status","Name","Duration in ms","Description"
-"broken","scripts.test_a.Test_a#test_001","2",""
-"broken","scripts.test_a.Test_a#test_004","0",""
-"broken","scripts.test_a.Test_a#test_002","3",""
 "broken","scripts.test_a.Test_a#test_003","0",""
+"broken","scripts.test_a.Test_a#test_001","1",""
+"broken","scripts.test_a.Test_a#test_002","1",""
+"broken","scripts.test_a.Test_a#test_004","0",""
