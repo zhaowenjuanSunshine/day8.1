@@ -23,7 +23,7 @@ class Test_a(object):
         assert True
     @allure.issue('http://www.163.com')
     def test_004(self):
-        print(">>>>>>>>>>>>test_004>>>>zwf>hjx>>>>>>>>>>>>zwj")
+        print(">>>>>>>>>>>>test_004>>>>zwf>hjx>>>>zwj>>>>hl>>>>zwj")
         assert True
 
 
